@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Convenience functions for working with Http",
-    "repository": "https://github.com/circuithub/elm-http-extra.git",
+    "repository": "https://github.com/elm-community/elm-http-extra.git",
     "license": "MIT",
     "source-directories": [
         "src"
